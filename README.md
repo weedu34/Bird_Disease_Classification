@@ -1,5 +1,6 @@
 # Bird_Disease_Classification
 
+![app](https://github.com/weedu34/Bird_Disease_Classification/blob/main/App.png)
 Welcome to the Bird Disease Classification Application repository! This application is designed to classify bird diseases using images of bird fecal samples. It utilizes a Keras VGG16 model as the base architecture to achieve accurate disease identification.
 
 ## Introduction
@@ -38,5 +39,7 @@ The model is trained on the training dataset using a specific set of hyperparame
 
 The model's performance is evaluated using the validation dataset. The accuracy matrix is calculated to assess the model's ability to classify bird diseases accurately.
 
+## App
+There are three buttons named **Upload** used for uploading the test image, **Predict** used for predicting the test image, an the last button named **Training model** is used for processing the whole pipeline starting from the data ingestion till validating the model.
 
 Thank you BAPPY AHMED entbappy for tutorials.
